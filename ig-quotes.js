@@ -88,7 +88,7 @@ const localQuotes = [
     author: "- Fha",
   },
   {
-    text: "ธาตุทองซาวด์",
+    text: "ขอให้น้องดรีมมาไทยอีก",
     author: "- imypur_pukan",
   },
 ];
