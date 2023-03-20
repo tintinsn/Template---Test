@@ -91,4 +91,8 @@ const localQuotes = [
     text: "ขอให้น้องดรีมมาไทยอีก",
     author: "- imypur_pukan",
   },
+  {
+    text: "ขอให้น้องดรีมมาไทยอีก ",
+    author: "- imypur_pukan",
+  },
 ];
